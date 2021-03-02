@@ -16,7 +16,7 @@
     "lodash": "^4.7.0",
     "moment": "^2.12.0",
     "npm-modernizr": "^2.8.3",
-    "pug": "^2.0.0-rc.4",
+    "pug": "^3.0.1",
     "validate.js": "^0.9.0"
   },
   "repository": {
